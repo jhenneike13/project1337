@@ -1,0 +1,2 @@
+Inventory = {'tomatoes' : 5}
+
